@@ -15,7 +15,7 @@ cryptography==3.4.8
 # distro==1.7.0
 # distro-info===1.1build1
 Django==4.1.7
-duplicity
+#duplicity
 fasteners==0.14.1
 future==0.18.2
 google-api-python-client==1.7.11
