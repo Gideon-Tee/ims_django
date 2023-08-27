@@ -1,8 +1,8 @@
-from re import I
+# from re import I
 from django.db import models
 from django.utils import timezone
 from django.dispatch import receiver
-from more_itertools import quantify
+# from more_itertools import quantify
 from django.db.models import Sum
 
 # Create your models here.
